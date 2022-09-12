@@ -46,10 +46,10 @@ I have made a Hand Gesture based cursor controller. The cursor moves as we move 
 ![Basic Interface](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/6b85122436aa3ecfd90b64133dc53c94bafa17a4/images/Basic%20Interface%20Introduction.png)
 
 ### Moving Cursor with Index Finger Movement:-
-![Moving Cursor with Index Finger Movement](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/280be18139cb12e22090b1509e5bb7b5260511c3/media/Moving%20Cursor%20Demo.gif)
+![Moving Cursor with Index Finger Movement](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Moving%20Cursor%20Demo.gif)
 
 ### Clicking on Screen(By touching Thumb & Little Finger):-
-![Clicking on Screen]()
+![Clicking on Screen](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
 
 
 ## :sparkles: Features ##
