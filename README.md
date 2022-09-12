@@ -6,7 +6,7 @@
 
 </div>
 
-<h1 align="center">Amazon Sentiment Analysis</h1>
+<h1 align="center">Mouse Controller using Hand Gesture</h1>
 
 <p align="center">
   <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/UtkarshPrajapati/Gesture-Controlled-Mouse?color=56BEB8">
