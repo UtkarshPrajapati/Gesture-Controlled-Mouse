@@ -38,7 +38,14 @@
 
 ## :dart: About ##
 
-I have made a Hand Gesture based cursor controller. The cursor moves as we move our hand in front of the Primary Camera. It uses Machine Learning to infer 21 3-Dimensionsal Landmarks of hand using Mediapipe's State-of-the-art techniques..
+I have made a Hand Gesture based cursor controller. The cursor moves as we move our hand in front of the Primary Camera. It uses Machine Learning to infer 21 3-Dimensionsal Landmarks of hand using Mediapipe's State-of-the-art techniques.
+
+## :dart: How To Use ##
+
+
+
+
+
 ## :sparkles: Features ##
 
 :heavy_check_mark: Uses Open Computer Vision (OpenCV)\
