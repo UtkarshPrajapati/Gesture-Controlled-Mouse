@@ -46,7 +46,7 @@ I have made a Hand Gesture based cursor controller. The cursor moves as we move 
 ![Basic Interface](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/6b85122436aa3ecfd90b64133dc53c94bafa17a4/images/Basic%20Interface%20Introduction.png)
 
 ## Moving Cursor with Finger Movement:-
-![Moving Cursor with Finger Movement](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/f3dfa18cd4b746fbaa08391ceaee95c09b4273ea/media/Moving%20Cursor%20Demo.gif)
+![Moving Cursor with Finger Movement](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/280be18139cb12e22090b1509e5bb7b5260511c3/media/Moving%20Cursor%20Demo.gif)
 
 
 ## :sparkles: Features ##
