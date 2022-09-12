@@ -41,11 +41,10 @@
 I have made a Hand Gesture based cursor controller. The cursor moves as we move our hand in front of the Primary Camera. It uses Machine Learning to infer 21 3-Dimensionsal Landmarks of hand using Mediapipe's State-of-the-art techniques..
 ## :sparkles: Features ##
 
-:heavy_check_mark: Uses Convolutional Neural Network (CNN)\
-:heavy_check_mark: Has 94.73% Accuracy\
-:heavy_check_mark: Uses Facebook's fastText for Fast Representation \
-:heavy_check_mark: DataSet Link:- www.kaggle.com/datasets/bittlingmayer/amazonreviews \
-:heavy_check_mark: Colab Notebook Link: https://colab.research.google.com/drive/1eaQXq_cg3RLqcDkhmeO4UntairnJdFbk?usp=sharing
+:heavy_check_mark: Uses Open Computer Vision (OpenCV)\
+:heavy_check_mark: Tracks hands and Finger Tips Efficiently\
+:heavy_check_mark: Moves the cursor according to the Hand Gestures & Placement of Index Finger  in the Camera Frame. \
+:heavy_check_mark: Can click the screen when Thumb & Little Finger are touched with each other.
 
 ## :rocket: Technologies ##
 
