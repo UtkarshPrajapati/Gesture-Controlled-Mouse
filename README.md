@@ -42,6 +42,7 @@ I have made a Hand Gesture based cursor controller. The cursor moves as we move 
 
 ## :dart: How To Use ##
 
+![Basic Interface](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/6b85122436aa3ecfd90b64133dc53c94bafa17a4/images/Basic%20Interface%20Introduction.png)
 
 
 
